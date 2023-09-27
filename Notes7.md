@@ -1,0 +1,7 @@
+Key facts to me from the notes and videos were learning about the introduction on Amazon VPC, network address translation, network access control lists, and binary numbers.
+
+My interst quotes: "AWS Transit Gateway connects VPCs and on-premises networks through a central hub. This simplifies your network and puts an end to complex peering relationships. It acts as a cloud router – each new connection is only made once." As I read this from the continued sections, it says to maintain routing tables within each VPC, so that's why I chose the before section. Quote 2: "When you create a custom security group, you can specify allow rules, but not deny rules. All rules are evaluated before the decision to allow traffic." Defenitly worth noting here as I've mistakes on the addresses a few times. Last, quote 3, "Lining up the IP address and the subnet mask together, the network and host portions of the address can be separated". I learned this in the past Computer class I had and it was confusing. Good to know it's explained to me better now, even with the decimal number to learn more into IP addresses.
+
+Facts I liked learning would have to be about how TCP/IP network problems are often caused by incorresct configuration of three main entires, creating a public-facing subnet for your web servers that have access that have success to the internet, and lastly, learning all different ways on how instance is affecting in the subnet it's being created with.
+
+No Questions.
